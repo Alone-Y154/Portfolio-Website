@@ -6,7 +6,7 @@
 </h1>
 
 
-![demo](https://github.com/Alone-Y154/Portfolio-Website/blob/main/Final%20Design/landing-page.png)
+![demo](https://github.com/Alone-Y154/Portfolio-Website/blob/main/landing-page.png)
 
 ## 🚨 Forking this repo (please read!)
 
