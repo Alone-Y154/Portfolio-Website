@@ -32,8 +32,9 @@ window.addEventListener('scroll', () => {
 
 
 var typed = new Typed('.yashwanth-krishna', {
-   strings: ["Yashwanth Krishna."],
+   strings: ["Yashwanth<br>Krishna."],
    typeSpeed:100,
    backSpeed:100,
-   loop:true,showCursor: false
+   loop:true,
+   showCursor: false
  });
