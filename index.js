@@ -29,3 +29,11 @@ window.addEventListener('scroll', () => {
     }
   });
 });
+
+
+var typed = new Typed('.yashwanth-krishna', {
+   strings: ["Yashwanth Krishna."],
+   typeSpeed:100,
+   backSpeed:100,
+   loop:true,showCursor: false
+ });
